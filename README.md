@@ -1,5 +1,3 @@
-# Thesis Template
+# Computational Complexity of Fine-Tuning Thresholds in Neural Networks
 
-A LaTeX template for typesetting theses in Persian.
-
-By: Hamid Zarrabi-Zadeh
+The template of this document is based on the LaTeX template by Prof. Hamid Zarrabi-Zadeh for typesetting theses in Persian.
